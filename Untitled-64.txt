@@ -1,0 +1,2 @@
+text = "apple, banana, cherry"
+items = text.split(', ')

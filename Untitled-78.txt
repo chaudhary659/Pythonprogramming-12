@@ -1,0 +1,3 @@
+names = ["Alice", "Bob", "Charlie"]
+ages = [25, 30, 35]
+person_info = list(zip(names, ages))

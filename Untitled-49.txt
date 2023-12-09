@@ -1,0 +1,2 @@
+original_dict = {"name": "Alice", "age": 20}
+copied_dict = original_dict.copy()

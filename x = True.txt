@@ -1,0 +1,3 @@
+x = True
+y = False
+result = x and y

@@ -1,0 +1,2 @@
+student = {"name": "Alice"}
+age = student.get("age", 0)

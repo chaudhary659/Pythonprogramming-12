@@ -1,0 +1,2 @@
+numbers = [0, 1, 2, 3]
+has_nonzero = any(numbers)

@@ -1,0 +1,2 @@
+student = {"name": "Alice"}
+student.setdefault("age", 20)

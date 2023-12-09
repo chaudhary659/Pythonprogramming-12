@@ -1,0 +1,3 @@
+dict1 = {"name": "Alice"}
+dict2 = {"age": 20}
+merged_dict = dict1 | dict2

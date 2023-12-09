@@ -1,0 +1,2 @@
+student = {"name": "Alice", "age": 20}
+student.update({"grade": "A"})
